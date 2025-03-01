@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zane! I also go by Erica</h1>
+<h1 align="center">Hi 👋, I'm Zane! I also go by Eric</h1>
 <h3 align="center">🚀 Code Ninja | 🌐 Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zane-dev14&label=Profile%20views&color=0e75b6&style=flat" alt="zane-dev14" /> </p>
