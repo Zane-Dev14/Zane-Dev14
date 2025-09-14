@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Zane! I also go by Eric</h1>
+<h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">🚀 Code Ninja | 🌐 Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zane-dev14&label=Profile%20views&color=0e75b6&style=flat" alt="zane-dev14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zane-dev14" alt="zane-dev14" /></a> </p>
 
-- 🔭 I’m currently working on [Project Euler](https://github.com/Zane-Dev14/ProjectEuler)
+- 🔭 I’m currently working on getting my GCP ACE certification.
 
-- 🌱 I’m currently learning **TypeScript,ML,etc**
+- 🌱 I’m currently learning **Kubernetes,DevOPs,etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zane-Dev14](https://github.com/Zane-Dev14)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/zane-dev14/](https://www.linkedin.com/in/zane-dev14/)
+- 📝 I post updates on [https://www.linkedin.com/in/zane-dev14/](https://www.linkedin.com/in/zane-dev14/)
 
-- 💬 Ask me about **React,Python,CSS**
+- 💬 Ask me about **React,Python,Docker**
 
 - 📫 How to reach me **ericatkusa@gmail.com**
 
-- ⚡ Fun fact **I am energetic.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
